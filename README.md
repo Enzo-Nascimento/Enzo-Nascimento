@@ -1,9 +1,6 @@
 
 ### Olá, eu sou Enzo Nascimento 😁
 
-[![GROUP](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
-[![GROUP](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](enzo12caio@gmail.com)
-
 ![Enzo GitHub stats](https://github-readme-stats.vercel.app/api?username=Enzo-Nascimento&show_icons=true&theme=)
 
 ### Tecnologias que eu uso atualmente
